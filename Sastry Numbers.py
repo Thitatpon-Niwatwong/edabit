@@ -11,7 +11,7 @@ def is_sastry(n):
 print(is_sastry(5))
 <<<<<<< HEAD
 print("s")
-=======
+
 # print("sdf")
 # print("sdf")
->>>>>>> 92b054f2b88658df6828dfb06147e8a0690a28cd
+
